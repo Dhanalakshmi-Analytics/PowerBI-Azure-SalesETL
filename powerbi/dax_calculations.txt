@@ -1,0 +1,3 @@
+Total Revenue = SUM(Sales[Revenue])
+Total Units = SUM(Sales[Units])
+Revenue per Unit = [Total Revenue] / [Total Units]
